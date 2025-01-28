@@ -23,10 +23,7 @@ The TMX_to_XLIFF tool processes TMX files in a specified directory, extracts sou
 ## Usage
 
 1. Place all .tmx files requiring conversion in a dedicated directory
-2. Run the script using Python:
-   ```bash
-   python TMX_to_XLIFF.py
-
+2. Run the script using Python
 3. When prompted, provide:
 
 - **Path to the directory containing .tmx files**  
