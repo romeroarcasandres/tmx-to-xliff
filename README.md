@@ -1,5 +1,5 @@
 # tmx-to-xliff
-This script converts .tmx files to .xliff files, preserving translation units as source-target pairs, preserving translation units as source-target pairs.
+This script converts .tmx files to .xliff files, preserving translation units as source-target pairs.
 
 ## Overview
 
